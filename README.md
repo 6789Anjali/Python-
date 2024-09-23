@@ -1,3 +1,4 @@
+#STUDENT MANAGEMENT SYSTEM
 import sqlite3
 from tkinter import *
 from tkinter import ttk, messagebox
